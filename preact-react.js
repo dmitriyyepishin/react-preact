@@ -1,2 +1,3 @@
 const React = preactCompat;
-const meVer = "0.2";
+const ReactDOM = preactCompat;
+const meVer = "0.3";
