@@ -1,1 +1,1 @@
-const React = preact;
+const React = preactCompat;
